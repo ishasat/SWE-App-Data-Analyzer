@@ -41,3 +41,8 @@ List of Queries:
 * calculate_member_majors.sql
 * calculate_member_points.sql
 * find_active_members.sql
+
+## Schema ##
+USERS(__user_id__, username, officer, major, firstName, lastName, graduationYear)
+EVENTS(__event_id__, title, event_date, location, description, time_range)
+ATTENDANCE(__u_id__<sup>FK</sup>, __e_id__<sup>FK</sup>)
