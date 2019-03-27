@@ -3,7 +3,7 @@
 ## Background ##
 
 <p align="center">
-  <img width="400" height="250" src="img/swe-app.png">
+  <img width="400" height="550" src="img/swe-app.png">
 </p>
 ![Alt text](img/swe-app.png?raw=true "OSU SWE App")
 
