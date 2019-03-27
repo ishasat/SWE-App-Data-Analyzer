@@ -4,6 +4,7 @@ Possible majors include: Aeronautical and Astronautical Engineering, Architectur
 
 Author: Isha Satpalkar satpalkar.1@osu.edu
 */
+
 SELECT DISTINCT u.major, count(u.major)
 FROM USERS u
 GROUP BY u.major
