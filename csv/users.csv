@@ -1,0 +1,503 @@
+id,username,officer,major,firstName,lastName,graduationYear
+14,thomason.23,1,Industrial and Systems Engineering,Jaclyn,Thomason,2017
+20,Miles.240,0,Mechanical Engineering,Maggie,Miles,2019
+21,Stanton.173,0,Materials Science and Engineering,Anna,Stanton,2018
+22,DuBois.66,0,Civil Engineering,Rachel,DuBois,2017
+23,hicks.462,0,Materials Science and Engineering,Tori,Hicks,2017
+24,Riffle.81,1,Materials Science and Engineering,Kelsey,Riffle,2018
+25,Whalen.161,1,"Food, Agricultural and Biological Engineering",Katie,Whalen,2018
+26,Guarnieri.19,1,Chemical Engineering,Kayla,Guarnieri,2019
+27,Davis.4713,0,"Food, Agricultural and Biological Engineering",Jasmine,Davis,2018
+29,johnson.5988,0,Civil Engineering,Jasmine,Johnson,2017
+30,Adams.1805,1,Mechanical Engineering,Catherine,Adams,2019
+31,Yeater.23,0,Biomedical Engineering,Taylor,Yeater,2017
+32,Schaefer.307,1,Mechanical Engineering,Megan,Schaefer,2018
+33,Schmidt.837,0,Biomedical Engineering,Lena,Schmidt,2017
+34,Eicher.33,1,Computer Science and Engineering,Tara,Eicher,2018
+35,Maher.117,0,"Food, Agricultural and Biological Engineering",Erin,Maher,2017
+46,Knapp.324,1,Mechanical Engineering,Rachael,Knapp,2018
+47,moore.3451,0,Biomedical Engineering,Ceile,Moore,2020
+48,Reedy.89,0,Mechanical Engineering,Julia,Reedy,2020
+49,Sandidge.8,0,"Food, Agricultural and Biological Engineering",Sydney,Sandidge,2019
+50,Ruse.10,0,Chemical Engineering,Nicole,Ruse,2020
+51,Fomich.7,0,Civil Engineering,Allyson,Fomich,2019
+52,calhoun.210,0,Biomedical Engineering,Harper,Calhoun,2020
+53,chodikov.1,0,"Food, Agricultural and Biological Engineering",Rachel,Chodikov,2019
+54,garber.154,0,Chemical Engineering,Emma,Garber,2020
+55,lander.45,0,Chemical Engineering,Melanie,Lander,2020
+56,Collins.1575,0,Chemical Engineering,Caroline,Collins,2020
+57,ogorzaly.1,0,Materials Science and Engineering,Rebecca,Ogorzaly,2019
+58,benintendi.3,0,Chemical Engineering,Izzy,Benintendi,2020
+59,rashedi.4,0,Chemical Engineering,Katy,Rashedi,2020
+60,smith.11131,1,Chemical Engineering,Morgan,Smith,2020
+61,riley.623,0,Chemical Engineering,Bryanne,Riley,2019
+62,Gohrband.1,0,"Food, Agricultural and Biological Engineering",Abbie,Gohrband,2019
+63,custodio.7,0,Computer Science and Engineering,Cara,Custodio,2020
+64,Marinescu.6,0,Computer Science and Engineering,Gabriella,Marinescu,2018
+65,Kamenir.1,0,Biomedical Engineering,Marissa,Kamenir,2019
+66,Hessin.3,0,Mechanical Engineering,Maria,Hessin,2020
+67,rupniw.7,0,Undecided Engineering,Beth,Rupnow,2020
+68,mclaughlin.408,0,Civil Engineering,Kara,McLaughlin,2020
+69,Thomas.3289,0,Biomedical Engineering,Caroline,Thomas,2019
+70,Soulas.8,1,Chemical Engineering,Stavi,Soulas,2018
+72,carroll.659,0,Industrial and Systems Engineering,Devin,Carroll,2020
+73,richardson.904,0,Biomedical Engineering,Katie,Richardson,2019
+74,Harder.41,0,"Food, Agricultural and Biological Engineering",Kendra,Harder,2019
+75,Einstein.11,0,Chemical Engineering,Samara,Einstein,2020
+76,Humanchuk.1,0,Electrical and Computer Engineering,Jennifer,Humanchuk,2020
+77,Weiss.506,0,Mechanical Engineering,Becca,Weiss,2020
+78,Otto.120,0,Undecided Engineering,Madeline,Otto,2020
+79,robbins.360,0,Undecided Engineering,mary,robbins,2020
+80,Kelker.7,0,Mechanical Engineering,Emily,Kelker,2020
+81,carroll.659,0,Industrial and Systems Engineering,Devin,Carroll,2020
+82,Christel.9,0,Mechanical Engineering,Abby,Christel,2020
+83,penrose.24,1,Chemical Engineering,Claire,Penrose,2020
+84,Sebak.1,0,Chemical Engineering,Elise,Sebak,2020
+85,Carter.1325,0,Engineering Physics,Annie,Carter,2018
+87,Gill.475,1,Industrial and Systems Engineering,Dana,Gill,2020
+88,Dent.84,0,"Food, Agricultural and Biological Engineering",Morgan,Dent,2019
+89,Avery.121,0,Chemical Engineering,Koleen,Avery,2019
+90,Locaputo.5,0,Industrial and Systems Engineering,Sarah,Locaputo,2020
+91,decraene.1,0,Biomedical Engineering,Dana,DeCraene,2020
+92,Ryan.1342,1,Civil Engineering,Missy,Ryan,2019
+93,Satpalkar.1,1,Computer Science and Engineering,Isha,Satpalkar,2020
+94,bradshaw.15,0,Chemical Engineering,Katie,Bradshaw,2020
+95,Rumreich.1,0,Computer Science and Engineering,Laine,Rumreich,2020
+96,asher.47,0,Computer Science and Engineering,Marisa,Asher,2020
+97,George.730,0,Computer Science and Engineering,Erin,George,2018
+98,Freireich.9,0,Undecided Engineering,Kailey,Freireich,2020
+99,Thomas.3303,0,"Food, Agricultural and Biological Engineering",Thushara,ThomaS,2019
+100,Miller.7792,0,Chemical Engineering,Josie,Miller,2019
+101,Crowell.66,0,Civil Engineering,Kristin ,Crowell ,2020
+102,Erwin.139,0,Mechanical Engineering,Abigail,Erwin,2018
+103,bass.187,0,Civil Engineering,Ivra ,Bass,2020
+104,schulz.135,0,Mechanical Engineering,Sarah,Schulz,2020
+105,Shaffer.557,1,Biomedical Engineering,Sarah,Shaffer,2020
+106,Bialeswise.1,0,Civil Engineering,Lauren,Biales Wise,2017
+107,demmert.3,0,Biomedical Engineering,Emily,Demmert,2020
+108,demenchuk.1,0,Mechanical Engineering,xenia,demenchuk,2020
+109,Kennedy.987,1,Industrial and Systems Engineering,Natalie,Kennedy,2019
+110,Whitney.171,1,Materials Science and Engineering,Allison,Whitney,2020
+111,slager.8,1,Chemical Engineering,Amanda,Slager,2020
+112,wang.7432,1,Industrial and Systems Engineering,Catherine,Wang,2019
+113,Ulstad.2,0,Mechanical Engineering,Aimee,Ulstad,1984
+114,soppi.3,0,Chemical Engineering,Leah,Soppi,2019
+115,Stewart.1612,0,Industrial and Systems Engineering,Madeline,Stewart,2020
+116,Sadholz.1,0,Civil Engineering,Ilan,Sadholz,2019
+117,killian.39,0,Environmental Engineering,Amanda,Killian,2020
+118,sandoval.65,0,Computer Science and Engineering,Vicky,Sandoval,2020
+119,Noll.105,0,Industrial and Systems Engineering,Alisa,Noll,2017
+121,good.311,0,Biomedical Engineering,Allie,Good,2020
+127,Sweetman.13,0,Undecided Engineering,Rachael,Sweetman,2020
+128,Wingerter.9,0,Environmental Engineering,Megan,Wingerter,2020
+131,ogorozaly.1,0,Materials Science and Engineering,Rebecca,Ogorzaly,2019
+132,Hennessey.52,0,Chemical Engineering,Caitlin,Hennessey,2020
+133,Johnson.6973,1,Computer Science and Engineering,Yvonne,Johnson,2020
+134,Knapp.324,1,Mechanical Engineering,Rachael,Knapp,2018
+135,Porter.821,0,Biomedical Engineering,Teress,Porter,2018
+136,Black.819,0,Materials Science and Engineering,Victoria,Black,2020
+137,Raudabaugh.6,0,Chemical Engineering,Sally,Raudabaugh,2018
+138,hartman.554,0,Mechanical Engineering,Brooke,Hartman,2020
+139,Pang.211,0,Chemical Engineering,Vivian,Pang,2019
+140,Mager.19,0,Civil Engineering,Rachel,Mager,2017
+141,Ruple.8,0,Civil Engineering,Christine ,Ruple,2017
+142,Vroom.4,0,Electrical and Computer Engineering,Carly,Vroom,2020
+143,weidman.12,0,Undecided Engineering,Emily,Weidman ,2020
+144,Harrington.248,0,Biomedical Engineering,Jack,Harrington,2017
+145,Kraus.145,0,Industrial and Systems Engineering,Gabby,Kraus,2019
+146,denison.28,0,Chemical Engineering,Shelby,Denison,2020
+147,Marsh.2234,0,Chemical Engineering,Krista,Marsh,2019
+148,Newby.29,0,Electrical and Computer Engineering,Samantha,Newby,2019
+149,mcdonel.16,1,Chemical Engineering,Emily,McDonel,2020
+150,zhang.4294,0,Industrial and Systems Engineering,Grace,Zhang,2017
+151,nummi.1,0,"Food, Agricultural and Biological Engineering",Lillian,Nummi,2018
+152,thada.1,0,Computer Science and Engineering,Manasa,Thada,2020
+153,Gillingham.7,0,Chemical Engineering,Courtney,Gillingham,2020
+154,Stavridis.2,0,Faculty/staff,Olga,Stavridis,1991
+155,kassar.5,0,Electrical and Computer Engineering,Noor,Kassar,2019
+156,Hemker.22,1,Mechanical Engineering,Lexi,Hemker,2019
+157,Sharif.27,0,Chemical Engineering,Nahila,Sharif,2017
+158,Laritz.2,0,Mechanical Engineering,Matthew,Laritz,2019
+159,Liljestrand.2,0,Mechanical Engineering,Geneva,Liljestrand,2018
+160,Denk.20,0,Undecided Engineering,Megan,Denk,2020
+161,demmert.3,0,Biomedical Engineering,Emily,Demmert,2020
+162,pelfrey.49,0,Civil Engineering,Amanda,Pelfrey,2019
+164,bateman.80,0,Industrial and Systems Engineering,Liz,Bateman,2019
+165,Walker.1901,0,Civil Engineering,Sydney,Walker,2020
+166,Sweetman.13,0,Undecided Engineering,Rachael,Sweetman,2020
+167,killian.39,0,Chemical Engineering,Amanda,Killian,2020
+168,Khau.2,0,Computer Science and Engineering,Ellen,Khau,2019
+169,Petrie.666,0,Industrial and Systems Engineering,Jane,Petrie,2020
+170,Lacqua.1,0,Civil Engineering,Gabby ,Lacqua,2019
+171,Keith.191,0,Computer Science and Engineering,Sophie,Keith,2019
+172,Reedy.89,0,Mechanical Engineering,Julia,Reedy,2020
+173,Piscioneri.3,0,Biomedical Engineering,Andrew,Piscioneri,2017
+174,Hurst.226,0,Industrial and Systems Engineering,Lyvia,Hurst,2019
+175,sipe.41,0,Chemical Engineering,Victoria,Sipe,2019
+176,bridgman.13,0,Mechanical Engineering,Mia,Bridgman,2020
+177,Hamilton.1197,0,"Food, Agricultural and Biological Engineering",Abbey,Hamilton ,2020
+178,Baratucci.1,0,Environmental Engineering,Alexa,Baratucci,2018
+179,bradshaw.152,0,Chemical Engineering,Katie,Bradshaw,2020
+180,pelfrey.49,0,Civil Engineering,Amanda,Pelfrey,2019
+181,Mollmann.13,0,Industrial and Systems Engineering,Caroline,Mollmann,2019
+182,slager.8,1,Chemical Engineering,Amanda,Slager,2020
+183,lipic.1,0,Biomedical Engineering,Jessica,Lipic,2020
+184,Ruch.20,0,Biomedical Engineering,Jenna,Ruch,2020
+185,Patel.2709,0,Mechanical Engineering,Riddhi,Patel,2020
+186,white.2774,0,Civil Engineering,chandrika,White,2020
+187,Boughan.16,0,Mechanical Engineering,Emma,Boughan,2018
+188,Clark.1988,0,Industrial and Systems Engineering,Lex,Clark,2016
+190,Black.819,0,Materials Science and Engineering,Victoria,Black,2020
+191,Gull.1,0,Civil Engineering,Sophia,Gull,2020
+192,Agrotis.4,0,Mechanical Engineering,Annie,Agrotis,2019
+193,demenchuk.1,0,Mechanical Engineering,xenia,demenchuk,2020
+195,Whitney.171,1,Materials Science and Engineering,Allison,Whitney,2020
+196,Neubauer.30,0,Computer Science and Engineering,Alyssa,Neubauer,2019
+197,slager.8,1,Chemical Engineering,Amanda,Slager,2020
+198,Sweetman.13,0,Undecided Engineering,Rachael,Sweetman,2020
+199,Thomas.3289,0,Biomedical Engineering,Caroline,Thomas,2019
+201,tanner.205,0,Chemical Engineering,Katherine,Tanner,2020
+202,Falk.94,0,Industrial and Systems Engineering,Elise,Falk,2017
+203,Neubauer.30,0,Computer Science and Engineering,Alyssa,Neubauer,2019
+204,Stavridis.2,0,Industrial and Systems Engineering,Olga,Stavridis,1991
+205,Kraus.145,0,Industrial and Systems Engineering,Gabby,Kraus,2019
+206,Sweetman.13,0,Undecided Engineering,Rachael,Sweetman,2021
+207,Hyre.14,0,Industrial and Systems Engineering,Alex,Hyre,2019
+208,Sturges.19,0,Materials Science and Engineering,Elizabeth,Sturges,2018
+209,caporale.5,0,Chemical Engineering,Christy,Caporale,2020
+210,Jefferson.58,0,Biomedical Engineering,Jamie,Jefferson,2019
+211,Thobe.33,1,Chemical Engineering,Samantha,Thobe,2019
+212,Fogarty.54,0,Chemical Engineering,Jena,Fogarty,2020
+213,polyanskiy.1,0,Industrial and Systems Engineering,Michelle,Polyanskiy,2021
+214,Jones.6050,0,Biomedical Engineering,Leah,Jones,2021
+215,Simonelli.16,0,Computer Science and Engineering,Nicole,Simonelli,2021
+216,Klenk.26,0,Aeronautical and Astronautical Engineering,Lauren,Klenk,2021
+217,Wadge.3,1,Mechanical Engineering,Bridgette,Wadge,2021
+218,Rizzo.275,0,Environmental Engineering,Mia,Rizzo,2021
+219,gliane.1,0,Chemical Engineering,Payton,Gliane,2021
+220,piotrkowski.1,1,Chemical Engineering,Florence,Piotrkowski,2021
+221,Dennis.424,0,Computer Science and Engineering,Andrea,Dennis,2021
+222,Reynolds.919,0,Mechanical Engineering,Jennifer ,Reynolds ,2020
+223,Frey.306,0,Electrical and Computer Engineering,Micki,Frey,2021
+224,willis.565,0,Industrial and Systems Engineering,Melina,Willis,2021
+225,Willis.565,0,Industrial and Systems Engineering,Melina,Willis,2021
+226,willis.565,0,Industrial and Systems Engineering,Melina,Willis,2021
+227,willis.565,0,Industrial and Systems Engineering,Melina,Willis,2021
+228,willis.565,0,Industrial and Systems Engineering,Melina,Willis,2021
+229,Lenz.64,0,Electrical and Computer Engineering,Katie,Lenz,2021
+230,Lenz.64,0,Electrical and Computer Engineering,Katie,Lenz,2021
+231,Mckinsey.6,0,Undecided Engineering,Sarah,McKinsey,2021
+232,Runta.2,0,Mechanical Engineering,Erin,Runta,2019
+233,piotrkowski.1,1,Chemical Engineering,Florence,Piotrkowski,2021
+234,schulz.135,0,Mechanical Engineering,Sarah,Schulz,2020
+235,Collins.1575,0,"Food, Agricultural and Biological Engineering",Caroline,Collins,2020
+236,werner.216,0,Biomedical Engineering,Marissa ,Werner,2021
+237,klenk.26,0,Aeronautical and Astronautical Engineering,Lauren,Klenk,2021
+238,Capel.9,0,Industrial and Systems Engineering,Courtney,Capel,2020
+239,Capel.9,0,Industrial and Systems Engineering,Courtney,Capel,2020
+240,Tonissen.1,0,Mechanical Engineering,Alyssa,Tonissen,2021
+241,ujczo.7,0,Undecided Engineering,Jen,Ujczo,2021
+242,Kohr.19,0,Biomedical Engineering,Rylee,Kohr,2021
+243,Kachurik.1,0,Materials Science and Engineering,Lauren ,Kachurik ,2020
+244,Elkins.111,0,Electrical and Computer Engineering,Kaylee,Elkins,2021
+245,Elkins.111,0,Electrical and Computer Engineering,Kaylee,Elkins,2021
+246,Mckinsey.6,0,Undecided Engineering,Sarah,McKinsey,2021
+247,maloney.204,0,Industrial and Systems Engineering,Shannon,Maloney,2020
+248,deshmukh.51,0,Industrial and Systems Engineering,Neesha,Deshmujh,2021
+249,kashyap.36,0,Electrical and Computer Engineering,Preethi,Kashyap,2021
+250,nunez.67,0,Civil Engineering,Judy,Nunez,2019
+251,kocan.6,0,Undecided Engineering,Liza,Kocan,2021
+252,Reynolds.919,0,Mechanical Engineering,Jennifer ,Reynolds,2020
+253,Huang.2715,0,Computer Science and Engineering,Daphne ,Huang,2020
+254,Gilger.9,0,Chemical Engineering,Madison,Gilger,2018
+255,Gilger.9,0,Chemical Engineering,Madison,Gilger,2018
+256,stillions.8,0,Electrical and Computer Engineering,Rachel,Stillions,2020
+257,Carroll.659,0,Industrial and Systems Engineering,Devin,Carroll,2020
+258,Kimble.140,0,Undecided Engineering,Amanda,Kimble,2021
+259,leitson.2,0,Chemical Engineering,rachel,leitson ,2021
+260,leitson.2,0,Chemical Engineering,rachel,leitson ,2021
+261,Cobb.229,0,Chemical Engineering,Natalie,Cobb,2021
+262,fischer.766,0,Chemical Engineering,Michelle,Fischer,2021
+263,Carroll.659,0,Industrial and Systems Engineering,Devin,Carroll,2020
+264,Ford.651,0,Electrical and Computer Engineering,Joni,Ford,2018
+265,Santos.147,0,Industrial and Systems Engineering,Karen,Santos,2020
+266,Ng.363,0,Biomedical Engineering,Alex,Ng,2021
+267,wenzen.2,0,Electrical and Computer Engineering,Kristin,Wenzen,2021
+268,Mossing.31,0,Biomedical Engineering,Lexi,Mossing,2021
+269,langhals.50,0,Computer Science and Engineering,Alyssa,Langhals,2020
+270,Huang.2336,0,Mechanical Engineering,Erin,Huang,2020
+271,Krebs.146,0,Chemical Engineering,Calli,Krebs,2021
+272,Wandel.4,0,Aeronautical and Astronautical Engineering,Anna,Wandel,2021
+273,cass.58,0,Biomedical Engineering,Mara,Cass,2020
+274,saha.94,0,Biomedical Engineering,Arpita Rhea,Saha,2021
+275,weed.37,0,Mechanical Engineering,Elizabeth,Weed,2019
+276,meurer.12,0,Civil Engineering,alyssa,meurer,2021
+277,Subramanian.153,0,Undecided Engineering,Janani,Subramanian,2021
+278,Miller.8557,0,Undecided Engineering,Abigail,Miller,2021
+279,dever.57,0,Electrical and Computer Engineering,Sarah,Dever,2021
+280,Hartman.575,0,Mechanical Engineering,Kimmy,Hartman,2021
+281,Koob.14,0,Chemical Engineering,Tara,Koob,2020
+282,Lingafelter.9,0,Industrial and Systems Engineering,Ashley,Lingafelter,2020
+283,Lingafelter.9,0,Industrial and Systems Engineering,Ashley,Lingafelter,2020
+284,Wolf.677,0,Undecided Engineering,Olivia,Wolf,2020
+285,Kates.21,0,Undecided Engineering,Ally,Kates,2021
+286,coates.115,0,Mechanical Engineering,Sydney,Coates,2020
+287,Beaber.13,0,Mechanical Engineering,Erin,Beaber,2019
+288,killingsworth.7,0,Electrical and Computer Engineering,Brianna,Killingsworth,2020
+289,demelo.7,1,Biomedical Engineering,Dora,de Melo,2021
+290,Crowell.66 ,0,Civil Engineering,Kristin,Crowell,2020
+291,Rish.18,0,Mechanical Engineering,Sarah,Rish,2021
+292,trabucco.4,0,Biomedical Engineering,Jessica,Trabucco,2019
+293,langhals.50,0,Computer Science and Engineering,Alyssa,Langhals,2020
+294,hart.744,0,Undecided Engineering,Megan,,2021
+295,mcdonel.16,0,Chemical Engineering,Emily,McDonel,2020
+296,hall.2344,0,"Food, Agricultural and Biological Engineering",juliana,hall,2020
+297,Molina.98,0,Industrial and Systems Engineering,Alanis,Molina,2020
+298,antao.4,0,Biomedical Engineering,Hazel,Antao,2021
+299,pugh.217,0,Chemical Engineering,Brooklyn,Pugh,2021
+300,veurink.1,0,Chemical Engineering,Siena,Veurink,2020
+301,gingrich.30,0,Mechanical Engineering,Newt,Harvey,2021
+302,Chen.6505,0,Chemical Engineering,Jaimee,Chen,2020
+303,Balakrishnan.53,0,Computer Science and Engineering,Kavya,Balakrishnan,2020
+304,gundermann.4,0,Undecided Engineering,Paige,Gundermann,2021
+305,puri.52,0,Aeronautical and Astronautical Engineering,Rachita ,Puri,2020
+306,debastiani.1,0,Chemical Engineering,maria,debastiani,2020
+307,Kassar.5,0,Electrical and Computer Engineering,Noor,Kassar,2019
+308,Karczewski.92,0,Biomedical Engineering,Caroline,Karczewski,2021
+309,foster.1078,0,Biomedical Engineering,Erin,Foster,2021
+310,Mathias.141,0,Electrical and Computer Engineering,Autumn,Mathias,2020
+311,mahnke.11,0,Undecided Engineering,Michaela,Mahnke,2021
+312,delnano.1,0,Undecided Engineering,Christina,Del Nano,2021
+313,Ma.1264,0,Civil Engineering,Christine,Ma,2020
+314,lindsey.313,0,Undecided Engineering,Andi,Lindsey,2021
+315,lu.997,0,Electrical and Computer Engineering,Sharon,LU,2017
+316,johantges.2,0,Environmental Engineering,Sydney,Johantges,2020
+317,Lifke.1,0,Civil Engineering,Claire,Lifke,2019
+318,gressley.2,0,Undecided Engineering,Katie,Gressley,2021
+319,colbert.81,0,Biomedical Engineering,Sheila,Colbert,2021
+320,Vradenburg.5,0,Materials Science and Engineering,Sara,Vradenburg,2020
+321,sollars.29,0,"Food, Agricultural and Biological Engineering",Clare,Sollars,2021
+322,Wingerter.9,0,Environmental Engineering,Megan,Wingerter,2020
+323,reese.2244,0,Undecided Engineering,Abigail,Reese,2021
+324,Baumann.154,0,Undecided Engineering,Erin,Baumann,2021
+325,langhals.50,0,Computer Science and Engineering,Alyssa,Langhals,2020
+326,aber.23,0,Industrial and Systems Engineering,Tori,Aber,2021
+327,Robinson.1817,0,"Food, Agricultural and Biological Engineering",Brooke,Robinson,2018
+328,Sturgeon.77,0,Mechanical Engineering,Nicole,Sturgeon,2021
+329,Ott.171,0,Civil Engineering,Samantha,Ott,2021
+330,Gull.1,0,Civil Engineering,Sophia,Gull,2020
+331,Kassar.5,0,Electrical and Computer Engineering,Noor,Kassar,2019
+332,Komorowski.11,0,Biomedical Engineering,Meghan,Komorowski,2021
+333,Tanck.2,0,Materials Science and Engineering,Susanna,Tanck,2019
+334,Stavridis.2,0,Faculty/staff,Olga,Stavridis,1990
+335,Levi.39,0,Mechanical Engineering,Jenna,Levi,2020
+336,Neumeister.11,0,Undecided Engineering,Sara,Neumeister,2021
+337,russell.1114,0,Mechanical Engineering,Kamryn,Russell,2021
+338,Fernandez.202,0,Electrical and Computer Engineering,Nicolas,Fernandez ,2019
+339,Wolodzko.2,0,Undecided Engineering,Annie,Wolodzko,2021
+340,Mclaughlin.429,0,Chemical Engineering,Marley,McLaughlin,2021
+341,posta.5,0,Chemical Engineering,Anna,Posta,2021
+342,Yengo.2,0,"Food, Agricultural and Biological Engineering",Roma,Yengo,2019
+343,Mcquade.46,0,Civil Engineering,Alexis,,2021
+344,gliane.1,0,Chemical Engineering,Payton,Gliane,2021
+345,Crawford.897,0,Industrial and Systems Engineering,Brooke,Crawford,2020
+346,Simonelli.17,0,Computer Science and Engineering,Taylor,Simonelli,2021
+347,Simonelli.17,0,Computer Science and Engineering,Taylor,Simonelli,2021
+348,Rintoul.2,0,Industrial and Systems Engineering,Melissa,Rintoul,2020
+349,demelo.7,0,Biomedical Engineering,Dora,de Melo,2021
+350,Lenz.64,0,Electrical and Computer Engineering,Katie,Lenz,2021
+351,Mansour.48,0,Chemical Engineering,Leila,Mansour,2018
+352,Kumar.668,0,Mechanical Engineering,Shefali,Kumar,2021
+353,cary.54,0,Welding Engineering,Claire,Cary,2021
+354,Wollman.3,0,Industrial and Systems Engineering,Emily,Wollman,2020
+355,Morgan.1414,0,Biomedical Engineering,Madison,Morgan,2021
+356,book.39,0,Computer Science and Engineering,Amy,Book,2020
+357,Mclaughlin.429,0,Chemical Engineering,Marley,Mclaughlin,2021
+358,hart.744,0,Undecided Engineering,Megan,Hart,2021
+359,Kelleher.89,0,Biomedical Engineering,Erin,Kelleher,2021
+360,Ford.651,0,Electrical and Computer Engineering,Joni,Ford,2018
+361,Shaffer.560,0,Civil Engineering,Jem,Shaffer,2020
+362,hart.744,0,Undecided Engineering,Megan,Hart,2020
+363,armbruster.66,0,"Food, Agricultural and Biological Engineering",Isabelle,Armbruster,2019
+364,miller.7815,0,Chemical Engineering,Ally,Miller,2019
+365,urciuoli.1,0,Biomedical Engineering,Narissa,Urciuoli,2020
+366,Divita.4,0,Biomedical Engineering,Maria,DiVita,2021
+367,everly.48,0,"Food, Agricultural and Biological Engineering",Morgan,Everly,2019
+368,Gangadhar.3,0,Chemical Engineering,Deepa,Gangadhar,2022
+369,Robbins.360,0,Civil Engineering,Mary,Robbins,2020
+370,phillips.1610,0,Biomedical Engineering,Anna,Phillips,2020
+371,schwartz.1990,0,Biomedical Engineering,Carly,Schwartz,2021
+372,wise.1209,0,Electrical and Computer Engineering,Emily,Wise,2021
+373,thomas.3541,0,Undecided Engineering,Natalie,Thomas,2021
+374,hunold.5,0,Undecided Engineering,Molly,Hunold,2017
+375,Qiu.374,0,Computer Science and Engineering,Sharon,Qiu,2021
+376,ettefagh.8,0,Undecided Engineering,Nina,Ettefagh,2021
+377,Mahajan.96,0,Chemical Engineering,Tana,Mahajan,2021
+378,Divita.4,0,Biomedical Engineering,Maria,DiVita,2021
+379,Meaden.3,0,Industrial and Systems Engineering,Kelly,Meaden,2021
+380,Burns.999,0,Environmental Engineering,Megan,Burns,2021
+381,warner.729,0,Biomedical Engineering,Olivia,Warner,2021
+382,Sobieraj.2,0,Chemical Engineering,Karina,Sobieraj,2020
+383,smith.11743,0,Civil Engineering,Erin,Smith,2021
+384,Reynolds.958,0,Undecided Engineering,Julianna,Reynolds,2021
+385,Reynolds.958,0,Undecided Engineering,Julianna,Reynolds,2021
+386,Arifeen.2,0,Engineering Physics,Arsala,Arifeen,2020
+387,Griffin.705,0,Undecided Engineering,Jessica,Griffin,2021
+388,May.593,0,Undecided Engineering,Hannah,May,2020
+389,Moore.3670,0,Civil Engineering,Nina,Moore,2021
+390,Mackinder.4,0,Computer Science and Engineering,Chelsea,Mackinder,2020
+391,Everly.48,0,"Food, Agricultural and Biological Engineering",Morgan,Everly,2019
+392,Maloney.204,0,Industrial and Systems Engineering,Shannon,Maloney,2020
+393,rath.63,0,Chemical Engineering,Antara,Rath,2021
+394,dandu.7,0,Computer Science and Engineering,Sri Ramya,Dandu,2021
+395,Green.1986,0,Electrical and Computer Engineering,Amber,Green,2019
+396,Hurst.226,0,Industrial and Systems Engineering,Lyvia,Hurst,2019
+397,Moore.3670,0,Civil Engineering,Nina,Moore,2021
+398,shaw.853,0,Mechanical Engineering,Clare,Shaw,2020
+399,Mansour.48,0,Chemical Engineering,leila,Mansour,2018
+400,Ruse.10,0,Chemical Engineering,Nicole,Ruse,2020
+401,Molina.98,0,Industrial and Systems Engineering,Alanis,Molina,2020
+402,Baumann.154,0,Undecided Engineering,Erin,Baumann,2021
+403,mcmahon.265,0,Undecided Engineering,Megan,McMahon,2021
+404,Crawford.897,0,Industrial and Systems Engineering,Brooke,Crawford,2020
+405,malkus.3,0,Aeronautical and Astronautical Engineering,mikala,malkus,2019
+406,Titus.94,0,Aeronautical and Astronautical Engineering,Johm,Titus,2018
+407,sayer.29,0,Aeronautical and Astronautical Engineering,Nathan,Sayer,2021
+408,fitzmaurice.11,0,Non-Engineering,Evan,Fitzmaurice,2021
+409,Flores.187,0,Aeronautical and Astronautical Engineering,Wilson,Flores,2018
+410,Staab.22,0,Chemical Engineering,Allison,Staab,2018
+411,Maloney.204,0,Industrial and Systems Engineering,Shannon,Maloney,2020
+412,Maloney.204,0,Industrial and Systems Engineering,Shannon,Maloney,2020
+413,Moore.3670,0,Civil Engineering,Nina,Moore,2021
+414,Sillars.2,0,Industrial and Systems Engineering,Dawn,Sillars,2018
+415,Vennetti.8,0,Chemical Engineering,Amy,Vennetti,2020
+416,Vennetti.8,0,Chemical Engineering,Amy,Vennetti,2020
+417,Fomich.7,0,Civil Engineering,Allyson,Fomich,2019
+418,Flesher.28,0,Aeronautical and Astronautical Engineering,Nic,Flesher,2018
+419,Musser.91,0,Mechanical Engineering,Marin,Musser,2021
+420,Pelfrey.49,0,Civil Engineering,Amanda,Pelfrey,2019
+421,Flesher.28,0,Aeronautical and Astronautical Engineering,Nic,Flesher,2018
+422,wenzen.2,0,Electrical and Computer Engineering,Kristin,Wenzen,2021
+423,yang.3568,0,Mechanical Engineering,Christina,Yang,2020
+424,Gill.475,0,Industrial and Systems Engineering,Dana,Gill,2020
+425,Kanapskyte.1,0,Biomedical Engineering,Ada,Kanapskyte,2021
+426,noeth.8,0,Computer Science and Engineering,Greta,Noeth,2021
+427,noeth.8,0,Computer Science and Engineering,Greta,Noeth,2021
+428,Gangadhar.3,0,Chemical Engineering,Deepa,Gangadhar,2017
+429,Robinson.2119,0,Computer Science and Engineering,Emily,Robinson,2021
+430,Robinson.2117,0,Chemical Engineering,Madison,Robinson,2021
+431,Robinson.2119,0,Computer Science and Engineering,Emily,Robinson,2021
+432,Howell.522,0,Computer Science and Engineering,Alexandria,Howell,2021
+433,Howell.522,0,Computer Science and Engineering,Alexandria,Howell,2021
+434,Howell.522,0,Computer Science and Engineering,Alexandria,Howell,2021
+435,Howell.522,0,Computer Science and Engineering,Alexandria,Howell,2021
+436,Howell.522,0,Computer Science and Engineering,Alexandria,Howell,2021
+437,Howell.522,0,Computer Science and Engineering,Alexandria,Howell,2021
+438,Howell.522,0,Computer Science and Engineering,Alexandria,Howell,2021
+439,Howell.522,0,Computer Science and Engineering,Alexandria,Howell,2021
+440,Howell.522,0,Computer Science and Engineering,Alexandria,Howell,2021
+441,warburton.18,1,"Food, Agricultural and Biological Engineering",Abby,Warburton,2019
+442,Kraus.145,0,Industrial and Systems Engineering,Gabby,Kraus,2019
+443,Sayarath.3,0,Computer Science and Engineering,Nyna,Sayarath,2020
+444,Hemker.22,0,Mechanical Engineering,Lexi,Hemker,2019
+445,Mathias.141,0,Electrical and Computer Engineering,Autumn,Mathias,2020
+446,Brownfield.53,0,Electrical and Computer Engineering,Luke,Brownfield,2019
+447,Mansour.48,0,Chemical Engineering,Leila,Mansour,2018
+448,brownfield.53,0,Electrical and Computer Engineering,Luke,Brownfield,2019
+449,Cowan.142,0,Biomedical Engineering,Eilidh,Cowan,2017
+450,pawar.38,0,Materials Science and Engineering,Milind,Pawar,2020
+451,wenzen.2,0,Electrical and Computer Engineering,Kristin,Wenzen,2021
+452,lu.997,0,Electrical and Computer Engineering,Sharon,Lu,2017
+453,posta.5,0,Chemical Engineering,Anna,Posta,2021
+454,kassar.5,0,Electrical and Computer Engineering,Noor,Kassar,2019
+455,Chen.6505,0,"Food, Agricultural and Biological Engineering",Jaimee,Chen,2020
+456,Gangadhar.3,0,Chemical Engineering,Deepa,Gangadhar,2021
+457,rastogi.42,0,Undecided Engineering,Astha,Rastogi,2021
+458,Moss.307,0,Civil Engineering,Jacqueline,Moss,2019
+459,Kraus.145,0,Industrial and Systems Engineering,Gabby,Kraus,2019
+460,Boyadzhiev.4,0,Chemical Engineering,Alexandra,Boyadzhiev,2020
+461,Arellano.29,0,Computer Science and Engineering,Pablo,Arellano,2020
+462,Nido.2,0,Materials Science and Engineering,Marina,Nido,2020
+463,browske.3,0,Computer Science and Engineering,Kimberly,Browske,2021
+464,maddela.3,0,Industrial and Systems Engineering,Raga,Maddela,2020
+465,saggar.4,0,Materials Science and Engineering,Lauren,Saggar,2017
+466,Eicher.33,0,Computer Science and Engineering,Tara,Eicher,2021
+467,Sayarath.3,0,Computer Science and Engineering,Nyna,Sayarath,2020
+468,Moore.3670,0,Civil Engineering,Nina,Moore,2021
+469,posta.5,0,Chemical Engineering,Anna,Posta,2021
+470,Posta.5,0,Chemical Engineering,Anna,Posta,2021
+471,reno.50,0,Computer Science and Engineering,Alli,Reno,2019
+472,phillips.1610,0,Biomedical Engineering,Anna,Phillips,2020
+473,rizzo.275,0,Chemical Engineering,Mia,Rizzo,2021
+474,Shaw.841,0,Mechanical Engineering,Meredith,Shaw,2020
+475,morris.1100,0,Welding Engineering,Daniella ,Morris ,2019
+476,Hemker.22,0,Mechanical Engineering,Lexi,Hemker,2019
+477,gliane.1,0,Chemical Engineering,Payton,Gliane,2021
+478,Srinivasan.198,0,Computer Science and Engineering,Sneha,Srinivasan,2021
+479,janes.38,0,Chemical Engineering,Christina,Janes,2020
+480,woidke.3,0,Welding Engineering,Colleen,Woidke,2021
+481,Lemanski.25,0,Civil Engineering,Sara,Lemanski,2020
+482,downing.234,0,"Food, Agricultural and Biological Engineering",Emma,Downing,2020
+483,pell.19,0,"Food, Agricultural and Biological Engineering",Teressa,Pell,2020
+484,Mcquade.46,0,Civil Engineering,Alexis,McQuade,2021
+485,naeem.13,0,Chemical Engineering,Emily,Naeem,2021
+486,Lee.8056,0,Biomedical Engineering,Samantha ,Lee,2021
+487,Wojcik.38,0,Materials Science and Engineering,Amanda,Wojcik,2020
+488,luther.79,0,Industrial and Systems Engineering,Grace,Luther,2021
+489,keole.2,0,Industrial and Systems Engineering,Tanvi,Keole,2021
+490,Reedy.89,0,Industrial and Systems Engineering,Julia,Reedy,2021
+491,kuhar.22,0,Aeronautical and Astronautical Engineering,Allison,Kuhar,2018
+492,Schroeder.722,0,Industrial and Systems Engineering,Kelsey,Schroeder,2019
+493,Vilkhu.3,0,Biomedical Engineering,Gurleen,Vilkhu,2021
+494,Rahwan.3,0,Chemical Engineering,MacKenzie,Rahwan,2021
+495,Kalkat.2,0,Mechanical Engineering,Manjot,Kalkat,2020
+496,magaram.2,0,Computer Science and Engineering,Rachelle,Magaram,2020
+497,Posta.5,0,Chemical Engineering,Anna,Posta,2021
+498,reno.50,0,Computer Science and Engineering,Alli,Reno,2019
+499,Davic.3,0,Industrial and Systems Engineering,Natalie,Davic,2021
+500,Miskus.1,0,Computer Science and Engineering,Sara,Miskus,2021
+501,stansbury.22,0,Chemical Engineering,Clarissa,Stansbury,2021
+502,Rincon.9,0,Environmental Engineering,Gabriella,Rincon,2021
+503,Walker.1901,0,Civil Engineering,Sydney,Walker,2020
+504,Kraus.145,0,Industrial and Systems Engineering,Gabby,Kraus,2019
+505,hohman.75,0,"Food, Agricultural and Biological Engineering",Jenna,Hohman,2020
+506,Gibson.1065,0,Materials Science and Engineering,Amanda,Gibson,2020
+507,noeth.8,0,Computer Science and Engineering,Greta,Noeth,2021
+508,Gangadhar.3,0,Chemical Engineering,Deepa,Gangadhar,2021
+509,rotondo.14,0,Civil Engineering,Raina,Rotondo,2020
+510,Mcmanus.110,0,Mechanical Engineering,Kelly,McManus,2020
+511,Moore.3670,0,Civil Engineering,Nina,Moore,2021
+512,Gangadhar.3,0,Chemical Engineering,Deepa,Gangadhar,2021
+513,downing.234,0,"Food, Agricultural and Biological Engineering",Emma,Downing,2020
+514,Book.39,0,Computer Science and Engineering,Amy,Book,2020
+515,ahmat.1,0,Civil Engineering,Nurul Izni Binti,Ahmat,2019
+516,phua.8,0,Electrical and Computer Engineering,Carlin Ye Ai,Phua,2019
+517,Kassar.5,0,Electrical and Computer Engineering,Noor,Kassar,2019
+518,Gangadhar.3,0,Chemical Engineering,Deepa,Gangadhar,2021
+519,Cheng.1088,0,Industrial and Systems Engineering,Vanessa,Cheng,2020
+520,tamayo.19,0,Chemical Engineering,Regina,Tamayo,2020
+521,Schmidt.999,0,Computer Science and Engineering,Abi,Schmidt,2021
+522,Miskus.1,0,Computer Science and Engineering,Sara,Miskus,2021
+523,Downing.234,0,"Food, Agricultural and Biological Engineering",Emma,Downing,2020
+524,Downing.234,0,"Food, Agricultural and Biological Engineering",Emma,Downing,2020
+525,Miles.240,0,Industrial and Systems Engineering,Margaret,Miles,2020
+526,Vojjala.1,0,Computer Science and Engineering,Sharanya,Vojjala,2021
+527,Hamilton.1197,0,"Food, Agricultural and Biological Engineering",Abbey,Hamilton,2020
+528,Pearson. 318,0,Electrical and Computer Engineering,Megan,Pearson,2018
+529,Lewis.2519,0,Computer Science and Engineering,Natalie,Lewis,2021
+530,li.6895,0,Electrical and Computer Engineering,Mika,Li,2020
+531,Wojcik.8,0,Materials Science and Engineering,Amanda,Wojcik,2020
+532,warburton.18,0,"Food, Agricultural and Biological Engineering",Abbh,Warburton,2019
+533,liu.6347,0,Materials Science and Engineering,Yumo,Liu,2021
+534,Lavelle.64,0,Electrical and Computer Engineering,Mary Therese,Lavelle,2018
+535,emara.6,0,Mechanical Engineering,Mariam,Emara,2020
+536,Miskus.1,0,Computer Science and Engineering,Sara,Miskus,2021
+537,Kurz.46,0,Industrial and Systems Engineering,Emily,Kurz,2019
+538,Kormos.11,0,Environmental Engineering,David,Kormos,2019
+539,Killian.39,0,Environmental Engineering,Amanda,Killian,2020
+540,Carpenter.920,0,Chemical Engineering,Benjamin,Carpenter,2021
+541,khambatta.1,0,Electrical and Computer Engineering,Brian,Khambatta,2019
+542,khambatta.1,0,Electrical and Computer Engineering,Brian,Khambatta,2019
+543,kline.378,0,Civil Engineering,Chiara,Kline,2019
+544,biesbrock.1,0,Biomedical Engineering,Kellen,Biesbrock,2021
+545,Miskus.1,0,Computer Science and Engineering,Sara,Miskus,2021
