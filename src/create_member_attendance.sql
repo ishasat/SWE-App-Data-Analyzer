@@ -1,4 +1,5 @@
-/* Creates SWE member schema containing USERS, EVENTS and ATTENDANCE tables.
+/*
+Creates SWE member schema containing USERS, EVENTS and ATTENDANCE tables.
 Author: Isha Satpalkar satpalkar.1@osu.edu
 */
 CREATE TABLE USERS
