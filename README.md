@@ -43,6 +43,6 @@ List of Queries:
 * find_active_members.sql
 
 ## Schema ##
-USERS(__user_id__, username, officer, major, firstName, lastName, graduationYear)
-EVENTS(__event_id__, title, event_date, location, description, time_range)
-ATTENDANCE(__u_id__<sup>FK</sup>, __e_id__<sup>FK</sup>)
+USERS(<u>user_id</u>, username, officer, major, firstName, lastName, graduationYear)  
+EVENTS(<u>event_id</u>, title, event_date, location, description, time_range)  
+ATTENDANCE(<u>u_id__<sup>FK</sup>, __e_id__<sup>FK</sup></u>)  
