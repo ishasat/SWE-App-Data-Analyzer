@@ -16,19 +16,24 @@ In this project, I use the CMS data maintained by OSU SWE to perform SQL queries
 * Finding all active members
 
 ## Instructions for Loading Data ##
-1. Change directory to SWE_Member_Attendance_Project/src
-2. Enter `> sqlite3`
-3. Enter `> .read create_member_attendance.sql`
-4. Enter `> .mode csv`
-5. Enter `> .import ../csv/users.csv USERS`
-6. Enter `> .import ../csv/events.csv EVENTS`
-7. Enter `> .import ../csv/attendances.csv ATTENDANCE`
-8. Enter `> .save swe_member_event_attendance.db`
-9. Enter `> .exit`
-10. To open database again, enter `> .open swe_member_event_attendance.db`
+*Ensure SQLite3 is installed first*
+
+1. Using the command line, change directory to SWE_Member_Attendance_Project/src
+2. Enter `sqlite3`
+3. Enter `.read create_member_attendance.sql`
+4. Enter `.mode csv`
+5. Enter `.import ../csv/users.csv USERS`
+6. Enter `.import ../csv/events.csv EVENTS`
+7. Enter `.import ../csv/attendances.csv ATTENDANCE`
+8. Enter `.save swe_member_event_attendance.db`
+9. Enter `.exit`
+10. To open database again, enter `sqlite3` followed by `.open swe_member_event_attendance.db`
 
 ## Instructions for Running Queries ##
 Change directory to SWE_Member_Attendance_Project/src
+
+1. To run calculate_event_points.sql, enter `.read calculate_event_points.sql`
+2. To run another query, repeat step 1 with another query from the List of Queries.
 
 List of Queries:
 * calculate_event_points.sql
@@ -36,6 +41,3 @@ List of Queries:
 * calculate_member_majors.sql
 * calculate_member_points.sql
 * find_active_members.sql
-
-1. To execute calculate_event_points.sql, enter `> .read calculate_event_points.sql`
-2. To execute another query, repeat step 1 with another query from the List of Queries.
