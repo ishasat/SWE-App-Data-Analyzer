@@ -6,4 +6,4 @@ Author: Isha Satpalkar satpalkar.1@osu.edu
 SELECT DISTINCT u.graduationYear, count(u.graduationYear)
 FROM USERS u
 GROUP BY u.graduationYear
-ORDER BY count(u.graduationYear) DESC
+ORDER BY u.graduationYear DESC;
