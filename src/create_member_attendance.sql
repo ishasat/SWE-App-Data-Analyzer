@@ -24,10 +24,9 @@ primary key(event_id)
 );
 
 CREATE TABLE ATTENDANCE
-(attendance_id int not null,
-u_id int not null,
+(u_id int not null,
 e_id int not null,
-primary key(attendance_id),
+primary key(u_id, e_id),
 foreign key(u_id) references USERS(user_id),
 foreign key(e_id) references EVENTS(event_id)
 );
