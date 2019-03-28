@@ -25,9 +25,9 @@ In this project, I use the CMS data maintained by OSU SWE to perform SQL queries
 5. Enter `.import ../csv/users.csv USERS`
 6. Enter `.import ../csv/events.csv EVENTS`
 7. Enter `.import ../csv/attendances.csv ATTENDANCE`
-8. Enter `.save swe_member_event_attendance.db`
+8. Enter `.save swe_app.db`
 9. Enter `.exit`
-10. To open database again, enter `sqlite3` followed by `.open swe_member_event_attendance.db`
+10. To open database again, enter `sqlite3` followed by `.open swe_app.db`
 
 ## Instructions for Running Queries ##
 Change directory to SWE_Member_Attendance_Project/src
