@@ -46,6 +46,7 @@ List of Queries:
 <p align="center">
   <img src="img/er-diagram.png">
 </p>
+  
 ## Schema ##
 USERS(__user_id__, username, officer, major, firstName, lastName, graduationYear)  
 EVENTS(__event_id__, title, event_date, location, description, time_range)  
