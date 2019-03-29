@@ -1,4 +1,4 @@
-# SWE_Member_Attendance_Project
+# SWE App Data Analyzer
 
 ## Background ##
 
